@@ -7,9 +7,16 @@ body {
     color: #fff;
 }
 
+/* Navigation Bar */
+
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
 .navbar-brand {
     color: #fff;
     font-family: 'ubuntu';
+    font-size: 2.5rem;
 }
 
 .nav-link {
