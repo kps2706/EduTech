@@ -1,9 +1,24 @@
+body {
+    font-family: 'Montserrat';
+}
+
 #title {
     background-color: #ff4c68;
+    color: #fff;
+}
+
+.navbar-brand {
+    color: #fff;
+    font-family: 'ubuntu';
+}
+
+.nav-link {
+    color: #fff;
 }
 
 h1 {
     font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
     font-size: 3rem;
     line-height: 1.5;
 }
