@@ -25,7 +25,21 @@ body {
 
 .nav-link {
     color: #fff;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
 
+/* download-button */
+
+.download-button {
+    margin: 5% 3% 5% 0%;
+}
+
+/* title Image */
+
+.title-image {
+    width: 50%;
+    transform: rotate(25deg);
 }
 
 h1 {
