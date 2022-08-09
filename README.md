@@ -1,2 +1,1 @@
-# EduTech
-Educational Website
+TinDog Starting Files
