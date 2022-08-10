@@ -55,6 +55,10 @@ h2 {
     font-size: 2.5rem;
 }
 
+h2:hover {
+    color: #000;
+}
+
 h3 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 800;
@@ -111,9 +115,10 @@ p {
 #testimonials {
 
     text-align: center;
-    background-color: #ef8172;
+    background-color: #ff4c68;
     color: #fff;
 }
+
 
 .testimonials-image {
     width: 10%;
