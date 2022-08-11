@@ -82,14 +82,8 @@ h2:hover {
     font-size: small;
 }
 
-.h-head {
-    font-family: 'Montserrat', sans-serif;
 
-}
 
-.h-head:hover {
-    color: #ff4c68;
-}
 
 .feature-box {
     text-align: center;
@@ -194,4 +188,13 @@ h2:hover {
 #features h3 {
     font-size: large;
     font-weight: 800;
+}
+
+#contact {
+    padding: 5% 10%;
+    text-align: center;
+}
+
+.social-icon {
+    margin: 20px 10px;
 }
