@@ -41,7 +41,7 @@ body {
     width: 25%;
     transform: rotate(25deg);
     position: absolute;
-
+    right: 20%;
 }
 
 h1 {
@@ -152,4 +152,18 @@ h3 {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-weight: 800;
+}
+
+
+/* Media Query */
+@media (max-width:990px) {
+    #title {
+        text-align: center;
+    }
+
+    .title-image {
+        position: static;
+        transform: rotate(0);
+        width: auto;
+    }
 }
